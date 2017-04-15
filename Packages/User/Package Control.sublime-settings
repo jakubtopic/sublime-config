@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Autoprefixer",
+		"ColorPicker",
+		"DocBlockr",
+		"HTML-CSS-JS Prettify",
+		"OpenScad",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Theme - One Dark"
+	]
+}

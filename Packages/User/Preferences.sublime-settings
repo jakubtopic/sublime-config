@@ -1,0 +1,46 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		".gitkeep",
+		"*.o"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".sass-cache",
+		"coverage",
+		"log",
+		"tmp",
+		"build",
+		"pkg",
+		"node_modules"
+	],
+	"font_face": "Consolas",
+	"font_size": 10.0,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 2,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"theme": "One Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 80
+}
